@@ -1,0 +1,2 @@
+# neteasecloudmusic_download
+一个带有图形界面的网易云音乐爬虫脚本，使用Qt作为图形库
